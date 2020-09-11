@@ -10,12 +10,6 @@
     background: url(https://imgur.com/HamNjr4.png);
 }
 
-.ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svgz);
-    width: 28px;
-    height: 46px;
-    opacity: 0;
-}
 
 .ds4 .button {
     position: absolute;

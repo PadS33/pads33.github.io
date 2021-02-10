@@ -115,9 +115,9 @@ background-position: 0 -70px;
 }*/
 
 .ds4 .start {
+    position: absolute;
     width: 16px;
     height: 29px;
-    position: absolute;
     left: 568px;
     top: 124px;
 }

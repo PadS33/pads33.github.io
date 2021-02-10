@@ -114,28 +114,37 @@ background-position: 0 -49px;
 background-position: 0 -70px;
 }*/
 
-.ds4 .start {
+.ds4 .arrows {
     position: absolute;
-    width: 16px;
+    width: 362px;
     height: 29px;
-    left: 568px;
     top: 124px;
+    left: 222px;
 }
 
-.ds4 .start.pressed {
-    background: url(https://imgur.com/buBaGOc.png) no-repeat center;
+.ds4 .back, .ds4 .start {
+    background: url(https://imgur.com/buBaGOc.png);
+    width: 16px;
+    height: 29px;
+    opacity: 0;
+}
+
+.ds4 .back.pressed, .ds4 .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
 }
 
 .ds4 .back {
-    width: 16px;
-    height: 29px;
-    position: absolute;
-    left: 222px;
-    top: 124px;
+    float: left;
+    transform: rotateY(180deg);
+    /* width: 28px; */
 }
 
-.ds4 .back.pressed {
-    background: url(https://imgur.com/kSuVkKu.png) no-repeat center;
+.ds4 .start {
+    float: right;
+    /* width: 28px; */
+    background-position: 16px 0;
 }
 
 .ds4 .abxy {

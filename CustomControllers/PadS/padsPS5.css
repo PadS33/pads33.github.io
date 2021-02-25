@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(https://imgur.com/6cI4alU.png);
+    background: url(https://imgur.com/69DcPry.png);
 }
 
 .ds4.disconnected div {
@@ -89,7 +89,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://imgur.com/hiOYGhP.png) no-repeat center;
+    background: url(https://imgur.com/517pOpc.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://imgur.com/hiOYGhP.png);
+    background: url(https://imgur.com/DVgPfo6.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/hiOYGhP.png);
+    background: url(https://imgur.com/517pOpc.png);
     position: absolute;
 }
 

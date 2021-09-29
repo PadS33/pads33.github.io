@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(base.svgz);
+    background: url(ps4-assets/disconnected.svgz);
 }
 
 .ds4.disconnected div {
@@ -16,8 +16,8 @@
 }
 
 .ds4 .triggers {
-    width: 588px;
-    height: 90px;
+    width: 200px;
+    height: 91px;
     position: absolute;
     left: 109px;
 }
@@ -124,7 +124,7 @@ background-position: 0 -70px;
 .ds4 .back, .ds4 .start {
     background: url(start.svgz);
     width: 28px;
-    height: 46px;
+    height: 47px;
     opacity: 0;
 }
 
@@ -147,8 +147,8 @@ background-position: 0 -70px;
 
 .ds4 .abxy {
     position: absolute;
-    width: 170px;
-    height: 171px;
+    width: 224px;
+    height: 112px;
     top: 159px;
     left: 567px;
 }
@@ -189,8 +189,8 @@ background-position: 0 -70px;
 
 .ds4 .sticks {
     position: absolute;
-    width: 361px;
-    height: 105px;
+    width: 286px;
+    height: 94px;
     top: 308px;
     left: 228px;
 }
@@ -222,14 +222,14 @@ background-position: 0 -70px;
 
 .ds4 .dpad {
     position: absolute;
-    width: 125px;
-    height: 126px;
+    width: 179px;
+    height: 104px;
     top: 181px;
     left: 92px;
 }
 
 .ds4 .face {
-    background: url(dpad.svgz);
+    background: url(ps4-assets/dpad.svgz);
     position: absolute;
 }
 

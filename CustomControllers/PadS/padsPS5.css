@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/517pOpc.png);
+    background: url(https://imgur.com/cAbPLBO.png);
     position: absolute;
 }
 
@@ -251,7 +251,7 @@ background-position: 0 -70px;
 
 .ds4 .face.down {
     left: 44px;
-    bottom: 0;
+    bottom: -125px;
     background-position: 0px 0;
 }
 
@@ -263,7 +263,7 @@ background-position: 0 -70px;
 
 .ds4 .face.right {
     top: 45px;
-    right: 0px;
+    right: -125px;
     background-position: 52px 0;
 }
 

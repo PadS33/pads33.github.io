@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://imgur.com/zp0Eufl.png);
+    background: url(https://imgur.com/KRrE8mK.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -40,17 +40,17 @@
 
 .ds4 .bumper {
     width: 99px;
-    height: 23px;
-    background: url(https://imgur.com/32AoBLh.png) no-repeat;
+    height: 32px;
+    background: url(https://imgur.com/3v8yy2A.png) no-repeat;
     opacity: 0;
 }
 
 .ds4 .bumpers {
     position: absolute;
     width: 588px;
-    height: 23px;
-    left: 109px;
-    top: 94px;
+    height: 32px;
+    left: 108px;
+    top: 91px;
 }
 
 .ds4 .bumper.pressed {
@@ -69,15 +69,15 @@
 }
 
 .ds4 .touchpad {
-    width: 262px;
-    height: 151px;
+    width: 320px;
+    height: 181px;
     position: absolute;
-    left: 272px;
-    top: 122px;
+    left: 243px;
+    top: 84px;
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://imgur.com/w1I3oIw.png) no-repeat center;
+    background: url(https://imgur.com/4Wwv7iq.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://imgur.com/8sgLFmO.png);
+    background: url(https://imgur.com/YgiGbMM.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -149,15 +149,15 @@ background-position: 0 -70px;
     position: absolute;
     width: 170px;
     height: 171px;
-    top: 159px;
-    left: 567px;
+    top: 151px;
+    left: 561px;
 }
 
 .ds4 .button {
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/1cgzGi4.png);
+    background: url(https://imgur.com/YZxNC8D.png);
 }
 
 .ds4 .button.pressed {
@@ -222,14 +222,14 @@ background-position: 0 -70px;
 
 .ds4 .dpad {
     position: absolute;
-    width: 125px;
-    height: 126px;
-    top: 181px;
-    left: 92px;
+    width: 0px;
+    height: 0px;
+    top: 174px;
+    left: 98px;
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/86ajm1b.png);
+    background: url(https://imgur.com/gBvzW7D.png);
     position: absolute;
 }
 
@@ -251,7 +251,7 @@ background-position: 0 -70px;
 
 .ds4 .face.down {
     left: 44px;
-    bottom: 0;
+    bottom: -125px;
     background-position: 0px 0;
 }
 
@@ -263,7 +263,7 @@ background-position: 0 -70px;
 
 .ds4 .face.right {
     top: 45px;
-    right: 0px;
+    right: -125px;
     background-position: 52px 0;
 }
 

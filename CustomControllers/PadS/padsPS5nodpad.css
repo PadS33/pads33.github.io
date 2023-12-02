@@ -203,6 +203,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .stick.pressed.left {
+    background: url(https://imgur.com/sGSXj4m.png);
     background-position-x: -96px;
 }
 
@@ -211,6 +212,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .stick.left {
+    background: url(https://imgur.com/5MKHB6y.png);
     top: 0;
     left: 0;
 }
